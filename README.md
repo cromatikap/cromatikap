@@ -71,3 +71,7 @@ EVM - nostr - svelte - docker - bash - arweave
 ### svelte
 
 - [Visual DAO app](https://github.com/cromatikap/visual-dao-app/)
+
+### Misc.
+
+- [Tech Innovator GPT agent](https://chat.openai.com/g/g-Yu78SURBP-tech-innovator) / Friendly advisor for web tech MVP ideas.
