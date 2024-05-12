@@ -6,6 +6,8 @@ I'm a software developer, tinkerer and entrepreneur. I'm passionate about new te
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=cromatikap&style=flat-square&abbreviated=true)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cromatikap)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Languages and Tools
 
 <div align="center">
