@@ -4,9 +4,11 @@
 
 I'm a software developer, tinkerer and entrepreneur. I'm passionate about new tech and the future of Humanity. My focus is around Blockchain technology, AI (OpenAI), security and open source.
 
-![Profile views counter](https://komarev.com/ghpvc/?username=cromatikap&style=flat-square&abbreviated=true)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=cromatikap&theme=algolia&no-frame=true&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-stats.vercel.app/api?username=cromatikap&count_private=true&include_all_commits=true)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=cromatikap&style=flat-square&abbreviated=true)  
 
 ## Languages and Tools
 
