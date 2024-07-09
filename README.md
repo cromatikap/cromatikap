@@ -6,8 +6,6 @@ I'm a software developer, tinkerer and entrepreneur. I'm passionate about new te
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cromatikap&theme=algolia&no-frame=true&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-stats.vercel.app/api?username=cromatikap&count_private=true&include_all_commits=true)
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=cromatikap&style=flat-square&abbreviated=true)  
 
 ## Languages and Tools
@@ -46,6 +44,10 @@ I'm a software developer, tinkerer and entrepreneur. I'm passionate about new te
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
 </div>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html)
 
 ## Favorite stack
 
