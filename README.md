@@ -49,35 +49,3 @@ I'm a software developer, tinkerer and entrepreneur. I'm passionate about new te
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html)
 
-## Favorite stack
-
-EVM - nostr - svelte - docker - bash - arweave
-
-## Projects
-
-### solidity
-
-- [Visual DAO](https://github.com/cromatikap/visual-dao/)
-
-### typescript / javascript
-
-- [arweave-account](https://www.npmjs.com/package/arweave-account) / Composible and customizable profile protocol (DID) on Arweave.
-- [ArweaveGPT](https://arweave-gpt.xyz) / Arweave wallets activity narrator powered by ChatGPT
-
-### python
-
-- [upw](https://github.com/cromatikap/upw) / Simple universal offline passwords manager.
-- [btw](https://pypi.org/project/btw/) / NLP command-line assistant powered by OpenAI
-
-### react
-
-- [Metaweave](https://metaweave.xyz) / Decentralized social network on Arweave
-- [ArProfile](https://arprofile.org) / Your identity on the [permaweb](arweave.org).
-
-### svelte
-
-- [Visual DAO app](https://github.com/cromatikap/visual-dao-app/)
-
-### Misc.
-
-- [Tech Innovator GPT agent](https://chat.openai.com/g/g-Yu78SURBP-tech-innovator) / Friendly advisor for web tech MVP ideas.
