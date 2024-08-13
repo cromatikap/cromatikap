@@ -1,7 +1,6 @@
-![avatar](https://github.com/user-attachments/assets/5a6ae949-e790-44b4-afbf-0c582349d825)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html)
-
 # @cromatikap 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html&langs_count=6&hide_progress=true&hide_title=true)
 
 ## Fullstack developer | consultant
 
@@ -47,7 +46,7 @@ kills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
 </div>
 
----
+## Portfolio
 
 ### Blockchain
 
