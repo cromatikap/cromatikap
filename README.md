@@ -1,12 +1,10 @@
-# @cromatikap 
+# @cromatikap
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html&langs_count=6&hide_progress=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html&langs_count=6&hide_progress=true&hide_title=true)  
 
 ## Fullstack developer | consultant
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cromatikap&theme=algolia&no-frame=true&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile views counter](https://komarev.com/ghpvc/?username=cromatikap&style=flat-square&abbreviated=true)  
 
 ## Languages and Tools
 
@@ -70,3 +68,7 @@ kills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>
 ### Misc.
 
 - [upw](https://github.com/cromatikap/upw) / Simple universal offline passwords manager.
+
+---
+
+![Profile views counter](https://komarev.com/ghpvc/?username=cromatikap&style=flat-square&abbreviated=true)  
