@@ -1,8 +1,9 @@
-## Hey 👋, I'm Cromatikap!
+![avatar](https://github.com/user-attachments/assets/5a6ae949-e790-44b4-afbf-0c582349d825)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html)
 
-### Glad to see you here!
+# @cromatikap 
 
-I'm a software developer, tinkerer and entrepreneur. I'm passionate about new tech and the future of Humanity. My focus is around Blockchain technology, AI (OpenAI), security and open source.
+## Fullstack developer | consultant
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cromatikap&theme=algolia&no-frame=true&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -25,7 +26,8 @@ I'm a software developer, tinkerer and entrepreneur. I'm passionate about new te
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/s![avatar](https://github.com/user-attachments/assets/4bb8a4bf-cde2-4ab1-ba10-ea864dad00f8)
+kills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
@@ -47,5 +49,25 @@ I'm a software developer, tinkerer and entrepreneur. I'm passionate about new te
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cromatikap&layout=compact&hide=c%2B%2B,c,Objective-C,Assembly,html)
+### Blockchain
 
+- [pocketsub](https://github.com/cromatikap/pocketsub) / NFT subscriptions marketplace.
+- [ERC-4908](https://github.com/cromatikap/erc-4908) / Gated resources NFT access, an extension of EIP-721 (status: not published - draft)
+- [Visual DAO](https://github.com/cromatikap/visual-dao/) / Just a draft.
+- [ArProfile](https://arprofile.org) / Your identity on the [permaweb](arweave.org).
+- [arweave-account](https://www.npmjs.com/package/arweave-account) / Composible and customizable profile protocol (DID) on Arweave.
+- [Metaweave](https://metaweave.xyz) / Decentralized social network on Arweave.
+
+### AI
+
+- [ArweaveGPT](https://arweave-gpt.xyz) / Arweave wallets activity narrator powered by OpenAI.
+- [Tech Innovator GPT agent](https://chat.openai.com/g/g-Yu78SURBP-tech-innovator) / Friendly advisor for web tech MVP ideas.
+- [btw](https://pypi.org/project/btw/) / NLP command-line assistant powered by OpenAI.
+
+### devops
+
+- [neo4j-online-backup-cronjob](https://github.com/cromatikap/neo4j-online-backup-cronjob/tree/main) / neo4j database scheduled backup solution.
+
+### Misc.
+
+- [upw](https://github.com/cromatikap/upw) / Simple universal offline passwords manager.
