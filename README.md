@@ -60,6 +60,7 @@ kills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>
 - [ArweaveGPT](https://arweave-gpt.xyz) / Arweave wallets activity narrator powered by OpenAI.
 - [Tech Innovator GPT agent](https://chat.openai.com/g/g-Yu78SURBP-tech-innovator) / Friendly advisor for web tech MVP ideas.
 - [btw](https://pypi.org/project/btw/) / NLP command-line assistant powered by OpenAI.
+- [bible_fantasy_daily](https://www.instagram.com/bible_fantasy_daily/) / AI-generated art bot for Instagram, posting daily digital creations.
 
 ### devops
 
