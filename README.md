@@ -4,7 +4,7 @@
 
 ## SWE | consultant
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=cromatikap&theme=algolia&no-frame=true&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=cromatikap&theme=algolia&no-frame=true&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and Tools
 
